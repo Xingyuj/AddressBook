@@ -13,7 +13,7 @@ services:
       - xingyu-network
 
   web:
-    image: addressbook:latest
+    image: xingyuji/addressbook:latest
     container_name: addressbook
     hostname: addressbook
     ports:
