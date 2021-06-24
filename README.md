@@ -4,7 +4,7 @@ AddressBook
 ### How to start
 Download repo
 ```bash
-    https://github.com/Xingyuj/AddressBook.git
+    git clone https://github.com/Xingyuj/AddressBook.git
 ```
 
 Go into repo root path simply run (chmod file if no permission)
